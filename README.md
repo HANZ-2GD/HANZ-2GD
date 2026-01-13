@@ -34,7 +34,6 @@
 <h4><font size="2"><a href="https://www.instagram.com/hanz_932"><font color="pink">FOLLOW INSTAGRAM 1</font>
 </h4>
 <h4><font size="2"><a href="https://www.instagram.com/chapter_rhn"><font color="white">INSTAGRAM 2</font>          
-<h4><font size="2"><a href="https://Instagram.com/Safitri_2030"><font color="yellow">FOLLOW INSTAGRAM KE 2</font>          
 </p>
 
 </p>
