@@ -3,7 +3,7 @@
 # 😁FOLLOW INSTAGRAM AKU YAA😁
 
 <p align="center">
-    <a href="https://github.com/SMK-Team">
+    <a href="https://github.com/HANZ-2GD">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=RAEHAN+MODS+BOT+MULTI+DEVICE;SUBSCRIBE+Y4LL;TERIMA+KASIH+SUDAH+MAMPIR"
             alt="Typing SVG"
