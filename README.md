@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/HANZ-2GD">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=RAEHAN+MODS+BOT+MULTI+DEVICE;SUBSCRIBE+Y4LL;TERIMA+KASIH+SUDAH+MAMPIR"
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=HALLO+KAK+JANGAN+LUPA+FOLLOW+INSTAGRAM+AKU+Yaaa🥰;TERIMA+KASIH+SUDAH+MAMPIR"
             alt="Typing SVG"
         />
     </a>
