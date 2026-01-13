@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/HANZ-2GD">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines" Hii Ini Raehan Jangan lupa follow Instagram aku yaa🥰🥰🥰"
+            src="https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines= Hii Ini Raehan Jangan lupa follow Instagram aku yaa🥰🥰🥰"
             alt="Typing SVG"
         />
     </a>
